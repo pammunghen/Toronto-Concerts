@@ -1,2 +1,2 @@
 # Toronto-Concerts
-Vue app 
+Vue.js web app written at HackerYou workshop February 2019
