@@ -24,7 +24,7 @@ const app = new Vue({
                 })
         },
         sort_btn_text() {
-            return this.sort_modifier>0?'A-Z':'Z-A'
+            return this.sort_modifier > 0 ? 'A-Z' : 'Z-A';
         }
     },
     data: {
