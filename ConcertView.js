@@ -36,7 +36,7 @@ const ConcertView = Vue.component('concert-view', {
                 {{concert.place.name}} - {{time}}
             </div>
 
-            <base-button :content="'View location'" @clicked="openMap"/>
+            <base-button :content="'View location on map'" @clicked="openMap"/>
             <base-button :content="'Delete'" @clicked="deleteCard"/>
         </div>
     `
